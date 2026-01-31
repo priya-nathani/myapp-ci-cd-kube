@@ -2,8 +2,5 @@ Hello
 
 World
 
-
-
-
 Priya
 
